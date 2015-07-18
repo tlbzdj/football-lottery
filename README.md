@@ -7,4 +7,4 @@
 
 ## 使用方法
 * 抓取足彩胜负14场比赛数据：在项目目录下运行 *python main.py*  该程序会每隔30分钟抓取一次最新数据
-* 生成报告：运行 *python report.py*
+* 生成报告：前提是*python main.py*运行至少30分钟以上后，再运行 *python report.py* 在当前目录下生成报告文件report.html
