@@ -1,0 +1,73 @@
+/*body {background-color: red}*/
+body, td {font:12px/1.5 '宋体',tahoma;}
+em,i,s{font-style:normal;}
+.eng{font-family:Tahoma, Geneva, sans-serif;}
+/*--------表格空时依然显示边框--------*/
+table{border-collapse:collapse;}
+td{empty-cells:show;}
+h2 {text-align: center}
+table.willianTable td
+{
+  border:0px
+}
+table.snaiTable td
+{
+  border:0px
+}
+table.ladbrokesTable td
+{
+  border:0px
+}
+table.interTable td
+{
+  border:0px
+}
+table.bet365Table td
+{
+  border:0px
+}
+
+.mytab
+  {
+  font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+  width:100%;
+  border-collapse:collapse;
+    text-align: center;
+  }
+
+.mytab td, .mytab th
+  {
+  font-size:1em;
+  border:1px solid #98bf21;
+  padding:3px 7px 2px 7px;
+  }
+
+.mytab th
+  {
+  font-size:1.1em;
+  text-align:center;
+  padding-top:5px;
+  padding-bottom:4px;
+  background-color:#A7C942;
+  color:#ffffff;
+  }
+
+.mytab tr.alt td
+  {
+  color:#000000;
+  background-color:#EAF2D3;
+  }
+
+#th_1 {width:100px}
+#th_2 {width:100px}
+#th_3 {width:150px}
+#th_4 {width:100px}
+#th_5 {width:140px}
+#th_6 {width:140px}
+#th_7 {width:140px}
+#th_8 {width:140px}
+#th_9 {width:140px}
+#th_10 {width:70px}
+#th_11 {width:70px}
+#th_12 {width:70px}
+
